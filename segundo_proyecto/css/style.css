@@ -1,0 +1,57 @@
+body{
+	margin: 40px;
+	border: solid 1px #ccc;
+	border-radius: 8px;
+}
+header{
+	border-bottom: solid 1px #ccc;
+	margin: 5px;
+	margin-bottom: 0px;
+}
+
+header img{
+	height: 80px;
+	float: right;
+	margin: 15px;
+}
+
+header h1{
+	font-size: 20px;
+	font-style: italic;
+	padding: 30px;
+}
+
+nav{
+	border-bottom: solid 1px #ccc;
+	margin: 5px;
+}
+
+nav li{
+	display: inline;
+	margin: 5px;
+}
+
+nav ul{
+	list-style: none;
+	padding-top: 0px;
+}
+
+section{
+	margin: 5px;
+}
+
+article{
+	border-bottom: solid 1px #ccc;
+}
+
+article img{
+	height: 80px;
+	float: left;
+	margin: 8px;
+}
+
+footer{
+	font-size: 14px;
+	font-style: italic;
+	text-align: center;
+}
